@@ -1,0 +1,74 @@
+div 
+{
+
+	text-align: center;
+
+	padding-top: 360px;
+
+
+	font-family: "poleno", sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 75px;
+
+}
+
+
+
+
+
+
+body
+{
+	background-color: #01823E;
+
+ a{
+		text-decoration: none;
+		color: #000000;
+	}
+
+a:hover, a:focus {
+		opacity:0.2;
+}
+
+ }
+
+ body.index div {
+    text-align: left; 
+    padding-top: 300px;
+    padding-left: 240px; 
+    color: #ffffff; 
+
+
+	font-family: "poleno", sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 180px;
+
+	a:hover, a:focus {
+		opacity:0.8;
+	}
+
+
+	a{
+		text-decoration: none;
+		color: #01823E;
+	}
+
+}
+
+	.secondline{
+    font-size: 40px;
+    line-height: 1; /* Adjust the line height to control the spacing between lines of text */
+
+}
+
+p {
+	margin-top: 0em;
+	margin-bottom: 0em;
+    line-height: 1; /* Adjust the line height to control the spacing between lines of text */
+}
+
+
+
+
